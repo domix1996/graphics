@@ -1,0 +1,8 @@
+﻿  ConsoleApplication5.cpp
+c:\users\gabim\desktop\gk\tekstura\consoleapplication5\consoleapplication5.cpp(215): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gabim\desktop\gk\tekstura\consoleapplication5\consoleapplication5.cpp(215): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\gabim\desktop\gk\tekstura\consoleapplication5\consoleapplication5.cpp(216): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gabim\desktop\gk\tekstura\consoleapplication5\consoleapplication5.cpp(216): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\gabim\desktop\gk\tekstura\consoleapplication5\consoleapplication5.cpp(217): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\gabim\desktop\gk\tekstura\consoleapplication5\consoleapplication5.cpp(217): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+  ConsoleApplication5.vcxproj -> C:\Users\gabim\Desktop\gk\tekstura\Debug\ConsoleApplication5.exe

@@ -1,0 +1,8 @@
+﻿  heptagon.cpp
+c:\users\dominik narożyński\desktop\grafika\lesson_1\zad.4\heptagon\heptagon.cpp(376): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_1\zad.4\heptagon\heptagon.cpp(379): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_1\zad.4\heptagon\heptagon.cpp(413): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_1\zad.4\heptagon\heptagon.cpp(415): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_1\zad.4\heptagon\heptagon.cpp(417): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_1\zad.4\heptagon\heptagon.cpp(419): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+  heptagon.vcxproj -> C:\Users\Dominik Narożyński\Desktop\Grafika\Lesson_1\zad.4\Debug\heptagon.exe

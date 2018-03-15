@@ -1,0 +1,17 @@
+﻿  targa.cpp
+c:\users\gabim\desktop\zajecia3\zad2\consoleapplication21\targa.cpp(40): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\gabim\desktop\zajecia3\zad2\consoleapplication21\targa.cpp(120): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Program2.cpp
+c:\users\gabim\desktop\zajecia3\zad2\consoleapplication21\program2.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabim\desktop\zajecia3\zad2\consoleapplication21\program2.cpp(375): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\zajecia3\zad2\consoleapplication21\program2.cpp(378): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\zajecia3\zad2\consoleapplication21\program2.cpp(412): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\zajecia3\zad2\consoleapplication21\program2.cpp(414): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\zajecia3\zad2\consoleapplication21\program2.cpp(416): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\zajecia3\zad2\consoleapplication21\program2.cpp(418): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\zajecia3\zad2\consoleapplication21\program2.cpp(466): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  Generating Code...
+  ConsoleApplication21.vcxproj -> C:\Users\gabim\Desktop\zajecia3\zad2\Debug\ConsoleApplication21.exe

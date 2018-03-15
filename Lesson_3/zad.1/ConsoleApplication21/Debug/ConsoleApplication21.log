@@ -1,0 +1,12 @@
+﻿  Program2.cpp
+c:\users\gabim\desktop\consoleapplication__\consoleapplication21\consoleapplication21\program2.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\gabim\desktop\consoleapplication__\consoleapplication21\consoleapplication21\program2.cpp(41): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\consoleapplication__\consoleapplication21\consoleapplication21\program2.cpp(144): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\consoleapplication__\consoleapplication21\consoleapplication21\program2.cpp(149): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\consoleapplication__\consoleapplication21\consoleapplication21\program2.cpp(210): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\consoleapplication__\consoleapplication21\consoleapplication21\program2.cpp(212): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\consoleapplication__\consoleapplication21\consoleapplication21\program2.cpp(214): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\consoleapplication__\consoleapplication21\consoleapplication21\program2.cpp(216): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\gabim\desktop\consoleapplication__\consoleapplication21\consoleapplication21\program2.cpp(327): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  ConsoleApplication21.vcxproj -> C:\Users\gabim\Desktop\ConsoleApplication__\ConsoleApplication21\Debug\ConsoleApplication21.exe

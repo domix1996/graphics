@@ -1,0 +1,12 @@
+﻿  Texture.cpp
+c:\users\dominik narożyński\desktop\grafika\lesson_3\zad1\consoleapplication21\texture.cpp(4): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+c:\users\dominik narożyński\desktop\grafika\lesson_3\zad1\consoleapplication21\texture.cpp(41): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_3\zad1\consoleapplication21\texture.cpp(144): warning C4305: "+=": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_3\zad1\consoleapplication21\texture.cpp(149): warning C4305: "-=": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_3\zad1\consoleapplication21\texture.cpp(210): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_3\zad1\consoleapplication21\texture.cpp(212): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_3\zad1\consoleapplication21\texture.cpp(214): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_3\zad1\consoleapplication21\texture.cpp(216): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+c:\users\dominik narożyński\desktop\grafika\lesson_3\zad1\consoleapplication21\texture.cpp(327): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: zobacz deklarację „sscanf”
+  ConsoleApplication21.vcxproj -> C:\Users\Dominik Narożyński\Desktop\Grafika\Lesson_3\zad1\x64\Debug\ConsoleApplication21.exe
