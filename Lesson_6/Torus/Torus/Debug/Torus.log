@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Torus.cpp
+c:\users\dominik narożyński\desktop\grafika\lesson_6\torus\torus\torus.cpp(24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\grafika\lesson_6\torus\torus\torus.cpp(63): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  Torus.vcxproj -> C:\Users\Dominik Narożyński\Desktop\Grafika\Lesson_6\Torus\Debug\Torus.exe
