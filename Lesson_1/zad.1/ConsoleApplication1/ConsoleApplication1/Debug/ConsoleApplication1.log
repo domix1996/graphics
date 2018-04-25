@@ -1,5 +1,5 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (ConsoleApplication1.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   stdafx.cpp
   napis.cpp
-c:\users\dominik narożyński\desktop\grafika\lesson_1\zad.1\consoleapplication1\consoleapplication1\napis.cpp(16): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
-  ConsoleApplication1.vcxproj -> C:\Users\Dominik Narożyński\Desktop\Grafika\Lesson_1\zad.1\ConsoleApplication1\Debug\zad.1.exe
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_1\zad.1\consoleapplication1\consoleapplication1\napis.cpp(16): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConsoleApplication1.vcxproj -> C:\Users\Dominik Narożyński\Desktop\OddajGrafike\Lesson_1\zad.1\ConsoleApplication1\Debug\zad.1.exe
