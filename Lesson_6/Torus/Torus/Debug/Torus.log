@@ -1,131 +1,131 @@
 ﻿  Torus.cpp
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(17): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(17): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(22): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(22): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(27): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(27): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(36): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(36): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(41): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(41): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(46): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(46): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(55): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(55): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(60): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(60): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(65): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(65): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(67): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(79): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(79): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(84): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(84): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(86): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(93): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(93): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(98): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(98): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(103): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(103): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(105): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(112): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(112): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(117): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(117): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(122): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(122): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(124): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(131): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(131): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(136): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(136): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(141): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(141): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(143): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(150): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(150): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(155): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(155): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(160): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(160): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(162): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(169): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(169): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(174): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(174): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(179): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(179): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(181): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(188): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(188): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(193): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(193): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(198): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(198): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(200): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(207): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(207): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(212): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(212): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(217): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(217): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(219): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(226): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(226): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(231): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(231): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(236): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(236): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(238): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(245): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(245): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(250): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(250): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(255): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(255): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(257): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(264): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(264): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(269): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(269): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(274): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(274): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(276): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(283): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(283): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(288): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(288): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(293): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(293): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(295): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(302): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(302): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(307): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(307): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(312): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(312): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(314): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(321): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(321): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(326): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(326): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(331): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(331): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(333): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(345): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(345): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(359): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(359): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(364): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(364): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(369): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\materials.h(369): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\torus.cpp(548): warning C4305: '+=': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\torus.cpp(553): warning C4305: '-=': truncation from 'double' to 'GLfloat'
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\torus.cpp(614): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\dominik narożyński\desktop\lesson_6\torus\torus\torus.cpp(616): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
-  Torus.vcxproj -> C:\Users\Dominik Narożyński\Desktop\Lesson_6\Torus\Debug\Torus.exe
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(17): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(17): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(22): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(22): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(27): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(27): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(36): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(36): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(41): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(41): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(46): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(46): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(55): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(55): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(60): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(60): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(65): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(65): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(67): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(79): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(79): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(84): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(84): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(86): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(93): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(93): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(98): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(98): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(103): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(103): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(105): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(112): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(112): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(117): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(117): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(122): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(122): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(124): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(131): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(131): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(136): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(136): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(141): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(141): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(143): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(150): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(150): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(155): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(155): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(160): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(160): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(162): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(169): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(169): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(174): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(174): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(179): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(179): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(181): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(188): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(188): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(193): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(193): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(198): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(198): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(200): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(207): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(207): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(212): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(212): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(217): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(217): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(219): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(226): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(226): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(231): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(231): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(236): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(236): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(238): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(245): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(245): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(250): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(250): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(255): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(255): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(257): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(264): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(264): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(269): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(269): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(274): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(274): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(276): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(283): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(283): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(288): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(288): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(293): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(293): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(295): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(302): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(302): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(307): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(307): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(312): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(312): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(314): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(321): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(321): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(326): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(326): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(331): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(331): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(333): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(345): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(345): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(359): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(359): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(364): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(364): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(369): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\materials.h(369): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\torus.cpp(458): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\torus.cpp(462): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\torus.cpp(517): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_6\torus\torus\torus.cpp(519): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Torus.vcxproj -> C:\Users\Dominik Narożyński\Desktop\OddajGrafike\Lesson_6\Torus\Debug\Torus.exe

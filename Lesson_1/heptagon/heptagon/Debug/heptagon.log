@@ -1,7 +1,0 @@
-﻿  heptagon.cpp
-c:\users\dominik narożyński\desktop\grafika\lesson_1\heptagon\heptagon\heptagon.cpp(26): warning C4305: "argument": obcięcie z "double" do "GLfloat"
-c:\users\dominik narożyński\desktop\grafika\lesson_1\heptagon\heptagon\heptagon.cpp(38): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
-c:\users\dominik narożyński\desktop\grafika\lesson_1\heptagon\heptagon\heptagon.cpp(37): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
-c:\users\dominik narożyński\desktop\grafika\lesson_1\heptagon\heptagon\heptagon.cpp(98): warning C4305: "argument": obcięcie z "double" do "GLclampf"
-c:\users\dominik narożyński\desktop\grafika\lesson_1\heptagon\heptagon\heptagon.cpp(155): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
-  heptagon.vcxproj -> C:\Users\Dominik Narożyński\Desktop\Grafika\Lesson_1\heptagon\Debug\heptagon.exe

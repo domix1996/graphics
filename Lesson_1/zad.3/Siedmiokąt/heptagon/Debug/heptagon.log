@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (heptagon.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  siedmiokat.cpp
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_1\zad.3\siedmiokąt\heptagon\siedmiokat.cpp(22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_1\zad.3\siedmiokąt\heptagon\siedmiokat.cpp(33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_1\zad.3\siedmiokąt\heptagon\siedmiokat.cpp(32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_1\zad.3\siedmiokąt\heptagon\siedmiokat.cpp(79): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_1\zad.3\siedmiokąt\heptagon\siedmiokat.cpp(118): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  heptagon.vcxproj -> C:\Users\Dominik Narożyński\Desktop\OddajGrafike\Lesson_1\zad.3\Siedmiokąt\Debug\zad.3.exe

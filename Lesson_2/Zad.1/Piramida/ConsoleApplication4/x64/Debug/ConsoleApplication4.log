@@ -1,0 +1,6 @@
+﻿  Piramida.cpp
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_2\zad.1\piramida\consoleapplication4\piramida.cpp(71): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_2\zad.1\piramida\consoleapplication4\piramida.cpp(72): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_2\zad.1\piramida\consoleapplication4\piramida.cpp(91): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_2\zad.1\piramida\consoleapplication4\piramida.cpp(92): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  ConsoleApplication4.vcxproj -> C:\Users\Dominik Narożyński\Desktop\OddajGrafike\Lesson_2\Zad.1\Piramida\x64\Debug\Zad.1.exe
