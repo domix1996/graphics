@@ -743,18 +743,18 @@ void ExtensionSetup()
 
 void BuildPyramid()
 {
-	vertices[3 * 8 + 0] = 0.0f;
-	vertices[3 * 8 + 1] = 0.0f;
-	vertices[3 * 8 + 2] = 0.0f;
-	vertices[3 * (8 + 1) + 0] = 0.0f;
-	vertices[3 * (8 + 1) + 1] = 0.0f;
-	vertices[3 * (8 + 1) + 2] = 1.0f;
+	vertices[3 * 7 + 0] = 0.0f;
+	vertices[3 * 7 + 1] = 0.0f;
+	vertices[3 * 7 + 2] = 0.0f;
+	vertices[3 * (7 + 1) + 0] = 0.0f;
+	vertices[3 * (7 + 1) + 1] = 0.0f;
+	vertices[3 * (7 + 1) + 2] = 1.0f;
 
 	//podstawa
-	for (int i = 0; i < 8; ++i)
+	for (int i = 0; i < 7; ++i)
 	{
-		const GLfloat x = 0.5f * std::sin(2.0f * 3.1415f * ((GLfloat)i / 8));
-		const GLfloat y = 0.5f * std::cos(2.0f * 3.1415f * ((GLfloat)i / 8));
+		const GLfloat x = 0.5f * std::sin(2.0f * 3.1415f * ((GLfloat)i / 7));
+		const GLfloat y = 0.5f * std::cos(2.0f * 3.1415f * ((GLfloat)i / 7));
 
 		vertices[3 * i + 0] = x;
 		vertices[3 * i + 1] = y;
@@ -762,15 +762,15 @@ void BuildPyramid()
 	}
 
 	//górne ściany boczne
-	for (int i = 0; i <= 8; ++i)
+	for (int i = 0; i <= 7; ++i)
 	{
-		triangles[3 * i + 0] = 8;
-		triangles[3 * i + 1] = i % 8;
-		triangles[3 * i + 2] = (i + 1) % 8;
+		triangles[3 * i + 0] = 7;
+		triangles[3 * i + 1] = i % 7;
+		triangles[3 * i + 2] = (i + 1) % 7;
 
-		triangles[3 * (i + 8 + 1) + 0] = (i + 1) % 8;
-		triangles[3 * (i + 8 + 1) + 1] = i % 8;
-		triangles[3 * (i + 8 + 1) + 2] = 8 + 1;
+		triangles[3 * (i + 7 + 1) + 0] = (i + 1) % 7;
+		triangles[3 * (i + 7 + 1) + 1] = i % 7;
+		triangles[3 * (i + 7 + 1) + 2] = 7 + 1;
 	}
 }
 

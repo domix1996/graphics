@@ -1,4 +1,6 @@
-﻿  ConsoleApplication3.cpp
-c:\users\dominik narożyński\desktop\oddajgrafike\lesson_2\zad.2\sprężyna\consoleapplication3\consoleapplication3.cpp(44): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\dominik narożyński\desktop\oddajgrafike\lesson_2\zad.2\sprężyna\consoleapplication3\consoleapplication3.cpp(45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-  ConsoleApplication3.vcxproj -> C:\Users\Dominik Narożyński\Desktop\OddajGrafike\Lesson_2\Zad.2\Sprężyna\x64\Debug\ConsoleApplication3.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Sprężyna.cpp
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_2\zad.2\sprężyna\consoleapplication3\sprężyna.cpp(44): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik narożyński\desktop\oddajgrafike\lesson_2\zad.2\sprężyna\consoleapplication3\sprężyna.cpp(45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  ConsoleApplication3.vcxproj -> C:\Users\Dominik Narożyński\Desktop\OddajGrafike\Lesson_2\Zad.2\Sprężyna\x64\Debug\Zad.2.exe

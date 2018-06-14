@@ -1,0 +1,17 @@
+﻿  Source.cpp
+c:\users\anna paluch\desktop\zajecia_9\2804\2804\source.cpp(190): warning C4311: 'type cast': pointer truncation from 'GLvoid *' to 'GLuint'
+c:\users\anna paluch\desktop\zajecia_9\2804\2804\source.cpp(190): warning C4302: 'type cast': truncation from 'GLvoid *' to 'GLuint'
+c:\users\anna paluch\desktop\zajecia_9\2804\2804\source.cpp(195): warning C4311: 'type cast': pointer truncation from 'GLvoid *' to 'GLuint'
+c:\users\anna paluch\desktop\zajecia_9\2804\2804\source.cpp(195): warning C4302: 'type cast': truncation from 'GLvoid *' to 'GLuint'
+c:\users\anna paluch\desktop\zajecia_9\2804\2804\source.cpp(277): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anna paluch\desktop\zajecia_9\2804\2804\source.cpp(279): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\anna paluch\desktop\zajecia_9\2804\2804\source.cpp(288): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\anna paluch\desktop\zajecia_9\2804\2804\source.cpp(292): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\anna paluch\desktop\zajecia_9\2804\2804\source.cpp(328): warning C4312: 'type cast': conversion from 'GLuint' to 'GLvoid *' of greater size
+  targa.cpp
+c:\users\anna paluch\desktop\zajecia_9\2804\2804\targa.cpp(40): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\anna paluch\desktop\zajecia_9\2804\2804\targa.cpp(120): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  Generating Code...
+  2804.vcxproj -> C:\Users\Anna Paluch\Desktop\zajecia_9\2804\x64\Debug\2804.exe
